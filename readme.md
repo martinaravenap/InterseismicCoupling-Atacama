@@ -11,8 +11,8 @@ Este repositorio presenta una plataforma reproducible de modelamiento geofísico
 Dinámica de la interfaz de subducción y vectores GNSS en el segmento de Atacama.
 
 <p align="center">
-  <img src="03_Output/Plots/Visualizacion3D.gif" width="48%" alt="Visualización 3D - Vista A" />
-  <img src="03_Output/Plots/Visualizacion3D1.gif" width="48%" alt="Visualización 3D - Vista B" />
+  <img src="./03_Output/Plots/Visualizacion%203D.gif" width="48%" alt="Visualización 3D A" />
+  <img src="./03_Output/Plots/Visualizacion%203D1.gif" width="48%" alt="Visualización 3D B" />
 </p>
 
 ---
