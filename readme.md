@@ -216,7 +216,7 @@ PROYECTO_TITULO_ATACAMA/
 ├── 04_Draft/                    # Experimentos y versiones preliminares
 └── README.md                    # Documentación técnica
 
-## 🚀 Quick Start (Inicio Rápido)
+## Quick Start (Inicio Rápido)
 
 Para replicar este estudio en su entorno local, siga estos pasos:
 
