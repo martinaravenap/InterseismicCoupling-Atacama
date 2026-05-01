@@ -12,7 +12,7 @@ Este repositorio presenta una plataforma reproducible de modelamiento geofísico
   <img src="03_Output/Plots/Visualizacion3D1.gif" width="48%" alt="Visualización 3D B" />
 </p>
 
-## 📌 Resumen Ejecutivo
+## Resumen 
 
 Este repositorio alberga el marco computacional desarrollado para una tesis de pregrado en **Geografía y Geociencias**, enfocado en el modelamiento del acoplamiento intersísmico en el norte de Chile.
 
@@ -25,7 +25,7 @@ El proyecto implementa un **Modelamiento Inverso Cinemático** para estimar la d
 El objetivo es cuantificar el **potencial sísmico acumulado desde el terremoto de 1922** en el segmento de Atacama.
 
 ---
-## 📊 Resultados y Análisis Geofísico
+## Resultados y Análisis Geofísico
 
 ### 1. Caracterización de la Geometría de Subducción
 El modelo se sustenta en una representación precisa de la placa de Nazca bajo la región de Atacama utilizando datos de **Slab2.0**.
@@ -74,9 +74,9 @@ Se incluyen pruebas de robustez para asegurar que los parches de acoplamiento se
 *   **Resolución del Modelo**: Identificación de las zonas donde la densidad de la red GNSS permite una recuperación confiable de la señal sísmica.
 *   **Checkerboard Test**: Validación de sensibilidad que demuestra la capacidad del sistema para detectar parches de acoplamiento discretos.
 
-## 🚀 Componentes Innovadores y Habilidades Destacadas
+## Componentes Innovadores y Habilidades Destacadas
 
-### 🧠 1. Rigurosidad Geofísica y Matemática
+###  1. Rigurosidad Geofísica y Matemática
 
 - **Regularización de Tikhonov (L2)**  
   Selección óptima del parámetro de suavizado mediante Curva-L  
@@ -96,7 +96,7 @@ Se incluyen pruebas de robustez para asegurar que los parches de acoplamiento se
 
 ---
 
-### ⚙️ 2. Ingeniería de Software Aplicada a la Ciencia
+### 2.Ingeniería de Software Aplicada a la Ciencia
 
 - Arquitectura modular (física, inversión, análisis, visualización)
 - Pipeline automatizado (`run_all_atacama.py`)
@@ -105,7 +105,7 @@ Se incluyen pruebas de robustez para asegurar que los parches de acoplamiento se
 
 ---
 
-### 🔬 3. Validación y Robustez del Modelo
+### 3. Validación y Robustez del Modelo
 
 El modelo incorpora múltiples controles de calidad:
 
@@ -119,7 +119,7 @@ El modelo incorpora múltiples controles de calidad:
 
 ---
 
-## 📊 Hallazgos Críticos (Periodo 1922–2026)
+## Hallazgos Críticos (Periodo 1922–2026)
 
 Tras un silencio sísmico de **104 años**, el modelo identifica un potencial significativo en el segmento de Atacama:
 
@@ -133,7 +133,7 @@ Tras un silencio sísmico de **104 años**, el modelo identifica un potencial si
 
 ---
 
-## ⚠️ Interpretación Física
+## Interpretación Física
 
 - 🟡 **Alto acoplamiento (~1.0)**  
   → zonas bloqueadas (asperidades)
@@ -149,7 +149,7 @@ El modelo identifica una **asperidad somera dominante**, consistente con:
 
 ---
 
-## ⚠️ Consideraciones Críticas
+## Consideraciones Críticas
 
 > Valores cercanos a 1.0 pueden representar:
 > - bloqueo real  
@@ -163,7 +163,7 @@ Además:
 
 ---
 
-## 📐 Base Física del Modelo
+## Base Física del Modelo
 
 El momento sísmico se calcula como:
 
@@ -179,7 +179,7 @@ M_w = \frac{2}{3} \log_{10}(M_0) - 6.07
 
 ---
 
-## 🌍 Visualización 3D Interactiva
+## Visualización 3D Interactiva
 
 El proyecto incluye visualización avanzada en 3D mediante **PyVista**:
 
@@ -194,7 +194,7 @@ Esto permite visualizar directamente:
 
 
 ---
-## 📂 Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 ```text
 PROYECTO_TITULO_ATACAMA/
