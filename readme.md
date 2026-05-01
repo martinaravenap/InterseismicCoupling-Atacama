@@ -14,15 +14,11 @@ Este repositorio presenta una plataforma reproducible de modelamiento geofísico
 
 ## Resumen 
 
-Este repositorio alberga el marco computacional desarrollado para una tesis de pregrado en **Geografía y Geociencias**, enfocado en el modelamiento del acoplamiento intersísmico en el norte de Chile.
+Este repositorio presenta un marco computacional reproducible para el modelamiento del acoplamiento intersísmico en el margen de subducción del norte de Chile.
 
-El proyecto implementa un **Modelamiento Inverso Cinemático** para estimar la distribución espacial del acoplamiento sísmico (coupling), utilizando:
+El software implementa un esquema de inversión cinemática basado en elasticidad lineal para estimar la distribución espacial del acoplamiento sísmico (coupling). Integra observaciones GNSS del Centro Sismológico Nacional (CSN), geometría de subducción derivada del modelo Slab2.0 del USGS y la formulación analítica de dislocación de Okada (1985).
 
-- datos GNSS del **Centro Sismológico Nacional (CSN)**
-- geometría de subducción basada en **Slab2.0 (USGS)**
-- formulación elástica de **Okada (1985)**
-
-El objetivo es cuantificar el **potencial sísmico acumulado desde el terremoto de 1922** en el segmento de Atacama.
+El sistema está diseñado para el procesamiento y modelamiento automatizado de deformación cortical, permitiendo cuantificar la acumulación de deformación intersísmica y evaluar el potencial sísmico en el segmento de Atacama desde el evento de 1922.
 
 ---
 ## Resultados y Análisis Geofísico
