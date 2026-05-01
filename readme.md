@@ -167,15 +167,15 @@ Además:
 
 El momento sísmico se calcula como:
 
-\[
+$$
 M_0 = \mu \cdot A \cdot D
-\]
+$$
 
-y la magnitud:
+y la magnitud de momento ($M_w$):
 
-\[
+$$
 M_w = \frac{2}{3} \log_{10}(M_0) - 6.07
-\]
+$$
 
 ---
 
