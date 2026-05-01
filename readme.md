@@ -1,6 +1,7 @@
 
 **Autor:** Martín Aravena  
-Este repositorio presenta una **plataforma de modelamiento geofísico reproducible**, integrando geodesia, inversión matemática y computación científica en Python.
+Autor: Martín Aravena
+Este repositorio presenta una plataforma reproducible de modelamiento geofísico en Python, integrando geodesia espacial, inversión matemática y computación científica para el análisis de deformación cortical y procesos tectónicos.
 --
 
 # 🌋 Interseismic Coupling - Atacama Segment (-25° to -30°)
