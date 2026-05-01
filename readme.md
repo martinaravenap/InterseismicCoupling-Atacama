@@ -1,10 +1,8 @@
 
+# 🌋 Interseismic Coupling - Atacama Segment (-25° to -30°)
 **Autor:** Martín Aravena  
 Este repositorio presenta una plataforma reproducible de modelamiento geofísico en Python, integrando geodesia espacial, inversión matemática y computación científica para el análisis de deformación cortical y procesos tectónicos.
 --
-
-# 🌋 Interseismic Coupling - Atacama Segment (-25° to -30°)
-
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Geophysics](https://img.shields.io/badge/Domain-Geophysics-red.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
