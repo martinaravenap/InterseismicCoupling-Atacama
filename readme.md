@@ -5,7 +5,7 @@
 Este repositorio presenta una **plataforma de modelamiento geofísico reproducible**, integrando geodesia, inversión matemática y computación científica en Python.
 ---
 
-# 🌋 Inversión del Acoplamiento Intersísmico en el Segmento de Atacama (-25° a -30°)
+# 🌋 Interseismic Coupling - Atacama Segment (-25° to -30°)
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Geophysics](https://img.shields.io/badge/Domain-Geophysics-red.svg)]()
