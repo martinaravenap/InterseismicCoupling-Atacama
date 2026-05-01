@@ -1,5 +1,5 @@
 
-# Interseismic Coupling - Atacama Segment (-25° to -30°)
+# A Reproducible Computational Framework for Interseismic Coupling Estimation in the Atacama Segment (-25° to -30°S) Using GNSS Data, Slab2.0 Geometry, and Elastic Dislocation Modeling
 **Autor:** Martín Aravena  
 Este repositorio presenta una plataforma reproducible de modelamiento geofísico en Python, integrando geodesia espacial, inversión matemática y computación científica para el análisis de deformación cortical y procesos tectónicos.
 --
