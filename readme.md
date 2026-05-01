@@ -1,4 +1,4 @@
---
+
 **Autor:** Martín Aravena  
 Este repositorio presenta una **plataforma de modelamiento geofísico reproducible**, integrando geodesia, inversión matemática y computación científica en Python.
 --
