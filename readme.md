@@ -189,6 +189,27 @@ Esto permite visualizar directamente:
 > la relación entre zonas urbanas y la interfaz activa de subducción
 
 
+## Conclusiones y Discusión Geodinámica
+
+El presente modelo de inversión del acoplamiento intersísmico en el segmento de Atacama (-25° a -30°S) proporciona una estimación cuantitativa del estado de carga elástica en la interfaz sismogénica, mediante la integración de observaciones geodésicas GNSS y la geometría de subducción derivada del modelo Slab2.0.
+
+Heterogeneidad del acoplamiento
+
+Los resultados indican una distribución espacialmente heterogénea del coupling, con dominios de alto acoplamiento interpretados como posibles zonas de bloqueo elástico en la interfaz de subducción. Estas regiones muestran coherencia espacial con segmentos con baja recurrencia sísmica histórica, lo que sugiere acumulación sostenida de deformación intersísmica.
+
+Control geométrico de la subducción
+
+Se observa que las variaciones en la geometría de la placa de Nazca, particularmente en su ángulo de buzamiento, condicionan la extensión efectiva de la zona sismogénica. Este resultado refuerza la importancia de incorporar geometrías tridimensionales realistas en la formulación de funciones de Green para inversiones geodésicas.
+
+Regularización e inversión cinemática
+
+La aplicación de regularización de Tikhonov mediante análisis de curva L permitió establecer un equilibrio óptimo entre el ajuste a los datos GNSS (χ²) y la complejidad del modelo (norma de suavidad). Este enfoque reduce la aparición de artefactos numéricos y estabiliza la estimación de los parches de acoplamiento.
+
+Marco computacional y reproducibilidad
+
+El framework implementado constituye una arquitectura computacional modular y reproducible para inversión geofísica, diseñada para el procesamiento sistemático de datos GNSS y modelos de subducción. Su estructura permite escalabilidad hacia otros segmentos de márgenes convergentes, facilitando la comparación regional del acoplamiento intersísmico y la actualización continua del modelo con nuevos datos.
+
+
 ---
 ## Arquitectura del Proyecto
 
