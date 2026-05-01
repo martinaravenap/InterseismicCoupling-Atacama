@@ -14,6 +14,7 @@ Dinámica de la interfaz de subducción y vectores GNSS en el segmento de Atacam
   <img src="./03_Output/Plots/Visualizacion%203D.gif" width="48%" alt="Visualización 3D A" />
   <img src="./03_Output/Plots/Visualizacion%203D1.gif" width="48%" alt="Visualización 3D B" />
 </p>
+</p>
 
 ---
 
