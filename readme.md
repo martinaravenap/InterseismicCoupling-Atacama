@@ -1,5 +1,5 @@
 
-# 🌋 Interseismic Coupling - Atacama Segment (-25° to -30°)
+# Interseismic Coupling - Atacama Segment (-25° to -30°)
 **Autor:** Martín Aravena  
 Este repositorio presenta una plataforma reproducible de modelamiento geofísico en Python, integrando geodesia espacial, inversión matemática y computación científica para el análisis de deformación cortical y procesos tectónicos.
 --
@@ -105,10 +105,10 @@ Se incluyen pruebas de robustez para asegurar que los parches de acoplamiento se
 
 El modelo incorpora múltiples controles de calidad:
 
-- ✔️ Curva-L (optimización de λ)  
-- ✔️ Checkerboard test (capacidad de resolución espacial)  
-- ✔️ Matriz de resolución (diagnóstico de confiabilidad)  
-- ✔️ Escenarios múltiples:
+-  Curva-L (optimización de λ)  
+-  Checkerboard test (capacidad de resolución espacial)  
+-  Matriz de resolución (diagnóstico de confiabilidad)  
+-  Escenarios múltiples:
   - modelo total  
   - zona sismogénica  
   - modelo robusto (filtrado y ponderado)
