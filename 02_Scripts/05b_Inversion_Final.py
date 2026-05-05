@@ -66,7 +66,7 @@ coupling_final = np.clip(coupling, 0, 1)
 
 
 # =============================================================================
-# 4. MATRIZ DE RESOLUCIÓN 🔥
+# 4. MATRIZ DE RESOLUCIÓN 
 # =============================================================================
 
 print("Calculando matriz de resolución...")
